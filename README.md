@@ -1,2 +1,3 @@
 # Trading-with-Momentum
-Udacity - AI in Trading Project
+Udacity - Artificial Intelligence in Trading Project I
+A simple trading strategy in Python that trades with momentum to check profitability.
